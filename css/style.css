@@ -92,7 +92,7 @@ video {
     vertical-align: baseline;
 }
 
-/* HTML5 display-role reset for older browsers */
+
 article,
 aside,
 details,
@@ -143,7 +143,7 @@ html {
 }
 
 a {
-    color: black;
+    color: rgb(73, 34, 5);
     text-decoration: none;
 }
 body { 
@@ -172,5 +172,23 @@ header nav ul li {
                        CONTEÚDO
 ==========================================================*/
 
-
+section.banner{
+    font-size: xx-large;
+   display: flex;
+}
+h1.titulo1{
+    font-size: larger;
+    padding: 3vw 3vw 3vw;
+    display: flex;
+}
+div.oi2{
+    font: xx-small;
+}
+p.naosei{
+   display: flex;
+   font-size: x-small;
+}
+section.meio{
+    font-size: x xx-large;
+}
 
