@@ -50,7 +50,7 @@ dl,
 dt,
 dd,
 ol,
-ul,
+ul, do video call with your customers
 li,
 fieldset,
 form,
@@ -175,10 +175,11 @@ header nav ul li {
 section.banner{
     font-size: xx-large;
    display: flex;
+   font-family: 'Times New Roman', Times, serif;
 }
 h1.titulo1{
-    font-size: larger;
-    padding: 3vw 3vw 3vw;
+    font-size: xx-large;
+    padding: 4vw 3vw 4vw;
     display: flex;
 }
 div.oi2{
@@ -192,3 +193,25 @@ section.meio{
     font-size: x xx-large;
 }
 
+.container-txt{
+    display: block;
+    max-width: 400px;
+    margin-left: 200px;
+}
+div.oi2{
+    display: flex;
+    font-size: small;
+
+}
+p.samanta{
+    display: flex;
+    font-size: small;
+}
+p.texto{
+    display: flex;
+    font-size: x-small;
+    color: darkgrey;
+}
+p.foto{
+    margin: ;
+}
